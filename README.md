@@ -1,5 +1,5 @@
 # Chinook-Analysis-Part2
-# Chinook Analysis Project using SQL Quires
+# Chinook Analysis Project using SQL Quiries
 
 ### Date created
 This project has been created on 30/1/2021
